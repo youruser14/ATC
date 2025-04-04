@@ -1,5 +1,7 @@
 /* Собственные классы */
 
+/* Собственные классы */
+
 body {
   font-family: "Montserrat", sans-serif;
 
@@ -78,7 +80,7 @@ a {
 .base__title {
   padding-top: 45px;
   font-size: 25px;
-  font-weight: 600;
+  font-weight: 300;
   color: white;
   text-transform: lowercase;
   max-width: 734px;
@@ -96,6 +98,7 @@ a {
   padding-left: 15px;
   padding-right: 15px;
   gap: 25px;
+  border-radius: 30px;
   
 }
 .mechanic {
